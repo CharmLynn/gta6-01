@@ -101,3 +101,5 @@ game/
 
 MIT — see `LICENSE`. An original game, not affiliated with Rockstar Games
 or Grand Theft Auto.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=mpd17n5r&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
