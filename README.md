@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/gta6-01/CharmLynn/gta6-01/rank.svg)](https://make.fun/c/gta6-01)
 [![reward](https://make.fun/badge/gta6-01/CharmLynn/gta6-01/reward.svg)](https://make.fun/c/gta6-01)
 
+Bounty: https://make.fun/bounty/gta6-01
+
 **Solmar City** is an original 2D top-down open-world crime game that runs
 offline in a desktop browser from static files — no build step, no network
 requests, no external libraries. Pure Canvas 2D and vanilla JavaScript.
